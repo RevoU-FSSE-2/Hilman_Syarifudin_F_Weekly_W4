@@ -1,0 +1,12 @@
+@media screen and (max-width:1024px) {
+    :root{
+        --biggest-font: 2rem;
+        --h1-font: 1.5rem;
+        --h2-font: 1.25rem;
+        --h3-font: 1.125rem;
+        --normal-font: 0.938rem;
+        --small-font: 0.813rem;
+        --smaller-font: 0.75rem;
+
+    } 
+}
