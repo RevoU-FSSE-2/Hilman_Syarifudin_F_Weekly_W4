@@ -82,6 +82,8 @@
 
     a{
         text-decoration: none;
+        color: var(--title-color);
+        font-weight: var(--font-bold);
     }
 
     button{
@@ -209,7 +211,7 @@
 /* HOME SECTION STYLING */
 
     .home{
-        background-image: url(/adryan-ra-hm2ixZyCTYg-unsplash.jpg);
+        background-image: url(https://images.unsplash.com/photo-1524369609384-10ce89e42d14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1177&q=80);
         background-size: cover;
         height: 100vh;
         background-position: center center;
