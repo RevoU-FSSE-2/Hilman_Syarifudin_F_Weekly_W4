@@ -130,6 +130,11 @@ Back To Netlify And Go To Domain Setting You Just Have To Add You Domain Name Fr
 Annddd The Last Thing You Can Open Your Browser And Enter Your Costume Domain Name From Niagahoster Voilaaaa It Will Look Like This
 ![Costume Domain Active](/ScreenShot/26.%20domain%20change.png)
 
+## Credit
+
+Hilman Syarifuin Fadilah
+[www.onlytest.site](https://www.onlytest.site)
+
 
 
 
